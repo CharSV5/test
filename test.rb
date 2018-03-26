@@ -6,6 +6,6 @@ end
 
 class not_test
   def bye
-    puts 'Goodbye'
+    puts 'hello'
   end
 end
